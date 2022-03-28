@@ -33,5 +33,12 @@
 
 # Citation
 ```
-
+@article{ozyegen2022word,
+  title={Word-level text highlighting of medical texts for telehealth services},
+  author={Ozyegen, Ozan and Kabe, Devika and Cevik, Mucahit},
+  journal={Artificial Intelligence in Medicine},
+  pages={102284},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
